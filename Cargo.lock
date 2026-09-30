@@ -1292,7 +1292,7 @@ dependencies = [
 [[package]]
 name = "kern-manifest"
 version = "0.2.3"
-source = "git+https://github.com/pegainfer-project/kern?rev=e4818a776f5c4b71b97e5c851aa11f0207672138#e4818a776f5c4b71b97e5c851aa11f0207672138"
+source = "git+https://github.com/pegainfer-project/kern?rev=b43bb5a680d6fc92f969a7881e1ceca98c301607#b43bb5a680d6fc92f969a7881e1ceca98c301607"
 dependencies = [
  "half",
  "schemars",
@@ -1304,7 +1304,7 @@ dependencies = [
 [[package]]
 name = "kern-pool"
 version = "0.2.3"
-source = "git+https://github.com/pegainfer-project/kern?rev=e4818a776f5c4b71b97e5c851aa11f0207672138#e4818a776f5c4b71b97e5c851aa11f0207672138"
+source = "git+https://github.com/pegainfer-project/kern?rev=b43bb5a680d6fc92f969a7881e1ceca98c301607#b43bb5a680d6fc92f969a7881e1ceca98c301607"
 dependencies = [
  "kern-manifest",
  "thiserror",
@@ -1313,7 +1313,7 @@ dependencies = [
 [[package]]
 name = "kern-runtime"
 version = "0.2.3"
-source = "git+https://github.com/pegainfer-project/kern?rev=e4818a776f5c4b71b97e5c851aa11f0207672138#e4818a776f5c4b71b97e5c851aa11f0207672138"
+source = "git+https://github.com/pegainfer-project/kern?rev=b43bb5a680d6fc92f969a7881e1ceca98c301607#b43bb5a680d6fc92f969a7881e1ceca98c301607"
 dependencies = [
  "cudarc",
  "half",
